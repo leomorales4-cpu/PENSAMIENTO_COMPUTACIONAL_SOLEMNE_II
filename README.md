@@ -48,7 +48,7 @@ La propuesta explora cómo reglas simples pueden generar comportamientos visuale
 
 ## Corriente o referente de diseño
 
-El proyecto dialoga con el arte generativo y sistemas visuales interactivos digitales.
+El proyecto dialoga con el arte generativo y sistemas visuales interactivos digitales. Quise intentar algo con movimiento y colores ya que en las exposiciones de talleres, en la anterior solemne visitando los talleres de interaccion digital me parecio interesante la forma en la que generaban repeticiones y casi dibujaban a traves de código e interacción.
 
 ## Referentes visuales, teóricos o históricos
 
@@ -100,26 +100,34 @@ Los valores del mouse son transformados mediante map() para modificar el tamaño
 
 # Proceso
 
-## Iteración 1
+##  Primeras pruebas de movimiento básico con un círculo simple.
 
-Primeras pruebas de movimiento básico utilizando un círculo simple.
+![mov](imagenes/movmouse.png)
+---
 
-## Iteración 2
+## Variación de tamaño mediante map().
 
-Se incorporó variación de tamaño mediante map().
+![tamaño](imagenes/tamañocambio.png)
+---
 
-## Iteración 3
+## Primer intento de poner el color como variable
 
-Se agregó movimiento aleatorio utilizando random().
+![color](imagenes/intentocolor.png)
+---
 
-## Iteración 4
+## Se intentó agregar movimiento aleatorio 
 
-Se incorporó interacción cromática mediante teclado.
+![bucle](imagenes/buclecirculo.png)
+---
 
-## Resultado final
+## Se trataba de repetir circulos por el lienzo y que fueran apareciendo más.
 
-Sistema visual dinámico e interactivo.
+![mouse](imagenes/siguiendomouse.png)
+---
 
+## Se incorporó interacción cromática mediante teclado y random
+
+![color](imagenes/randomcolor.png)
 ---
 
 # Link al sketch en p5.js
