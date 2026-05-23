@@ -50,9 +50,8 @@ La propuesta explora cómo reglas simples pueden generar comportamientos visuale
 
 El proyecto dialoga con el arte generativo y sistemas visuales interactivos digitales. Quise intentar algo con movimiento y colores ya que en las exposiciones de talleres, en la anterior solemne visitando los talleres de interaccion digital me parecio interesante la forma en la que generaban repeticiones y casi dibujaban a traves de código e interacción.
 
-## Referentes visuales, teóricos o históricos
+## Referentes visuales, teóricos
 
-- Bridget Riley: exploración de percepción y movimiento visual.
 - Arte generativo digital: uso de algoritmos y reglas para producir imágenes variables.
 - Diseño interactivo: relación entre usuario y respuesta visual.
 
