@@ -102,32 +102,32 @@ Los valores del mouse son transformados mediante map() para modificar el tamaño
 
 ##  Primeras pruebas de movimiento básico con un círculo simple.
 
-![mov](imagenes/movmouse.png)
+![movmouse](imagenes/movmouse.png)
 ---
 
 ## Variación de tamaño mediante map().
 
-![tamaño](imagenes/tamañocambio.png)
+![tamañocambio](imagenes/tamañocambio.png)
 ---
 
 ## Primer intento de poner el color como variable
 
-![color](imagenes/intentocolor.png)
+![intentocolor](imagenes/intentocolor.png)
 ---
 
 ## Se intentó agregar movimiento aleatorio 
 
-![bucle](imagenes/buclecirculo.png)
+![buclecirculo](imagenes/buclecirculo.png)
 ---
 
 ## Se trataba de repetir circulos por el lienzo y que fueran apareciendo más.
 
-![mouse](imagenes/siguiendomouse.png)
+![siguiendomouse](imagenes/siguiendomouse.png)
 ---
 
 ## Se incorporó interacción cromática mediante teclado y random
 
-![color](imagenes/randomcolor.png)
+![randomcolor](imagenes/randomcolor.png)
 ---
 
 # Link al sketch en p5.js
